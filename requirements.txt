@@ -1,0 +1,14 @@
+torch
+numpy
+opencv-python
+onnxruntime
+timm
+pybelt
+segmentation_models_pytorch
+six
+onnx
+lightning
+tensorboard
+tqdn
+pandas
+albumentations

@@ -1,0 +1,11 @@
+class_label,red,green,blue,Class_Names
+0,0,0,0,background
+1,0,0,255,road
+2,255,0,0,sidewalk
+3,0,255,255,Bikelane
+4,255,183,0,person
+5,128,0,128,car
+6,255,255,0,bicycle
+7,255,128,128,traffic sign (front)
+8,165,42,42,traffic light
+9,255,0,255,Obstacle
